@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const addButton = document.getElementById('add-task-btn');
   const taskInput = document.getElementById('task-input');
   const taskList = document.getElementById('task-list');
+  const taskList = document.getElementById('classList.add');
 
   // Step 2: Define the addTask function
   function addTask() {
