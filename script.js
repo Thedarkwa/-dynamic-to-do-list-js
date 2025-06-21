@@ -1,7 +1,7 @@
 // Run this code after the HTML document has fully loaded
 document.addEventListener('DOMContentLoaded', function () {
   // Step 1: Select DOM elements
-  const addButton = document.getElementById('add-task');
+  const addButton = document.getElementById('add-task-btn');
   const taskInput = document.getElementById('task-input');
   const taskList = document.getElementById('task-list');
 
